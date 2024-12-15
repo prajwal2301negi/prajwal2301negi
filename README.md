@@ -136,16 +136,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/prajwal2301negi/count.svg?"  />
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4b26a14c-e9c0pn&show_icons=true&locale=en&layout=compact" alt="4b26a14c-e9c0pn" /></p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal2301negi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4b26a14c-e9c0pn&" alt="4b26a14c-e9c0pn" /></p>
 
 ###
 

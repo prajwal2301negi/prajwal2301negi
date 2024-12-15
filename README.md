@@ -136,9 +136,9 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4b26a14c-e9c0pn&show_icons=true&locale=en&layout=compact" alt="4b26a14c-e9c0pn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&locale=en&layout=compact" alt="prajwal2301negi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4b26a14c-e9c0pn&" alt="4b26a14c-e9c0pn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&" alt="prajwal2301negi" /></p>
 
 ###
 

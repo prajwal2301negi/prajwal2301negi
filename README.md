@@ -136,7 +136,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&locale=en&layout=compact" alt="prajwal2301negi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="prajwal2301negi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&" alt="prajwal2301negi" /></p>
 

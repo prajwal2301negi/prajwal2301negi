@@ -15,6 +15,7 @@
 -  DataScience: https://online.codingblocks.com/app/certificates/CBOL-293598-3a205461
 -  Flutter: https://udemy-certificate.s3.amazonaws.com/image/UC-cd23da7b-7f74-426f-a08c-686206dbee98.jpg
 -  Android Development:  https://online.codingblocks.com/app/certificate/CBOL-277176-a6f2dcd5
+-  BlockChain Development: https://www.udemy.com/certificate/UC-87af25c2-5f52-45dd-af64-dc641140a642
 
 ###
 

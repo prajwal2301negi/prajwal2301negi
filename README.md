@@ -158,7 +158,7 @@
 <a href="https://www.geeksforgeeks.org/user/prajwalnh3ib/" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="gfg" height="30" width="40" /></a>  
 <a href="https://instagram.com/prajwalnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalnegi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajwalnegi2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajwalnegi2301" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/A98DB973KW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajwalnegi2301" height="30" width="40" /></a>
 </p>
 
 ###

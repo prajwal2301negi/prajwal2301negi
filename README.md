@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eta-eight-41.vercel.app/](https://portfolio-eta-eight-41.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://prajwal-negi.vercel.app/)
 
 - 📫 How to reach me **prajwalnegi2301@gmail.com**
   

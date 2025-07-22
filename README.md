@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=0e75b6&style=flat" alt="4b26a14c-e9c0pn" /> </p>
 
-- 🌱 I’m currently learning **Java SpringBoot**
+- 🌱 I’m currently learning **Game Development**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 

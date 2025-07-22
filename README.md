@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prajwal Negi</h1>
-<h3 align="center">I am a B-Tech student from NSUT with technical skill set and experience in Full-Stack Web-Development, Flutter, ML, DL, RL, AI-Integration and Blockchain.</h3>
+<h3 align="center">
+  I am a B.Tech student at NSUT with a strong technical background and hands-on experience in Full-Stack Web Development using the MERN stack, Next.js, Prisma, and PostgreSQL. I have also worked with Django, Go, and Flutter, and have a keen interest in Machine Learning, Deep Learning, Reinforcement Learning, AI integration, and Blockchain technologies.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=0e75b6&style=flat" alt="4b26a14c-e9c0pn" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Java SpringBoot**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://prajwal-negi.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.prajwalnegi.site/)
 
 - 📫 How to reach me **prajwalnegi2301@gmail.com**
   
@@ -137,6 +140,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img width="12" />
 </div>
 
 ###
@@ -145,9 +152,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=dracula" alt="prajwal2301negi" /></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/prajwal2301negi/prajwal2301negi/output/snake.svg" alt="Snake animation" />
 
 ###
 

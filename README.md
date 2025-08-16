@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Negi</h1>
 <h3 align="center">
-  I am a B.Tech student at NSUT with a strong technical background and hands-on experience in Full-Stack Web Development using the MERN stack, Next.js, Prisma, and PostgreSQL. I have also worked with Django, Go, and Flutter, and have a keen interest in Machine Learning, Deep Learning, Reinforcement Learning, AI integration, and Blockchain technologies.
+  I am a B.Tech student at NSUT with experience in Full-Stack Web Development using the MERN stack, Next.js, Prisma, Typsscript & PostgreSQL. I have also worked with Django, Go, and Flutter, and have a keen interest in Deep Learning, AI integration, and Blockchain technology.
 </h3>
 
 

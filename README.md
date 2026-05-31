@@ -1,165 +1,132 @@
-<h1 align="center">Hi 👋, I'm Prajwal Negi</h1>
-<h3 align="center">
-  I am a B.Tech student at NSUT with experience in Full-Stack Web Development using the MERN stack, Next.js, Prisma, Typescript & PostgreSQL. I have also worked with Django, Go, and Flutter, and have a keen interest in Deep Learning, AI integration, and Blockchain technology.
-</h3>
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║           PRAJWAL NEGI  ·  SOFTWARE DEVELOPER               ║
+║      Backend · Microservices · Distributed Systems          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=0e75b6&style=flat" alt="4b26a14c-e9c0pn" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-prajwalnegi.site-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://www.prajwalnegi.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-negi-19797724b)
+[![Email](https://img.shields.io/badge/Email-prajwalnegi2301@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalnegi2301@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B_solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-- 🌱 I’m currently learning **Game Development**
-
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.prajwalnegi.site/)
-
-- 📫 How to reach me **prajwalnegi2301@gmail.com**
-  
--  My Certifcates:
--  DataScience: https://online.codingblocks.com/app/certificates/CBOL-293598-3a205461
--  Flutter: https://udemy-certificate.s3.amazonaws.com/image/UC-cd23da7b-7f74-426f-a08c-686206dbee98.jpg
--  Android Development:  https://online.codingblocks.com/app/certificate/CBOL-277176-a6f2dcd5
--  BlockChain Development: https://www.udemy.com/certificate/UC-87af25c2-5f52-45dd-af64-dc641140a642
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
 </div>
 
-###
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="prajwal2301negi" /></p>
+## `$ whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=dracula" alt="prajwal2301negi" /></p>
+> Final-year B.Tech student at **NSUT Delhi** · I build **production-grade distributed systems** — not just side projects.
+>
+> Shipped two microservices platforms (5–6 independent services each) using **Node.js, TypeScript, RabbitMQ, and Redis**. Interned at **WorldQuant** (US-based quant hedge fund) where I lifted predictive alpha accuracy by **9 percentage points**. Solved **1500+ DSA problems** across LeetCode, GFG & Codeforces.
 
+```typescript
+const prajwal = {
+  currently:   "Building @ NSUT · Open to SDE roles (2026 grad)",
+  focus:       ["Microservices", "Event-Driven Architecture", "System Design"],
+  learning:    ["Game Development"],
+  location:    "Delhi, India 🇮🇳",
+  funFact:     "Won 1st at a drone race & 3rd at nationals in grappling 🥋",
+};
+```
 
-###
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/negi31971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="negi31971" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prajwal-negi-19797724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-negi-19797724b" height="30" width="40" /></a> 
-<a href="https://instagram.com/prajwalnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalnegi" height="30" width="40" /></a>
-</p>
+## `$ ls ./projects`
 
-###
+### 🔷 [NextHire](https://nexthire.prajwalnegi.site/) — Job Portal & Recruitment Platform
+> `PostgreSQL · Next.js · Node.js · TypeScript · Redis · BullMQ · Stripe · Nginx · GitHub Actions · Grafana`
+
+- **5 independent microservices** (auth / user / jobs / payments / uploads) behind an **Nginx API gateway**
+- **Read/write DB separation** using Neon replicas — offloads read queries from primary for improved throughput
+- **BullMQ async email queuing** + rate limiting + DDoS protection across distributed services
+- **Gemini AI** resume analyzer, Stripe subscriptions, Cloudinary media, JWT + Redis token management
+- Full **CI/CD pipeline** (GitHub Actions), Swagger docs, Grafana Loki + Winston centralized logging
+
+---
+
+### 🔷 [MuscleKart](https://github.com/prajwal2301negi) — Supplement E-Commerce & Delivery Platform
+> `MongoDB · React · Node.js · TypeScript · RabbitMQ · Stripe · Cloudinary · Vercel · Render`
+
+- **6-service event-driven architecture** (Auth / Store / Rider / Payment / Realtime / Job) with 3 user roles
+- **RabbitMQ message queues** with retry logic & fault-tolerance across payment, order, and rider pipelines
+- **Real-time rider tracking** + MongoDB geospatial queries for proximity-based store discovery
+- **Haversine distance calculation**, Admin-controlled rider verification, deployed across Vercel + Render + CloudAMQP
+
+---
+
+## `$ cat ./stack.json`
+
+```json
+{
+  "languages":    ["TypeScript", "JavaScript", "C++", "Python", "SQL", "Go"],
+  "backend":      ["Node.js", "Express.js", "RabbitMQ", "BullMQ", "Docker", "Nginx", "REST APIs"],
+  "frontend":     ["React.js", "Next.js", "Tailwind CSS", "ShadCN"],
+  "databases":    ["PostgreSQL", "MongoDB", "Redis", "NeonDB", "DB Replication", "Caching"],
+  "devops":       ["GitHub Actions", "CI/CD", "Docker", "Grafana", "Prometheus", "Loki", "Winston"],
+  "concepts":     ["Microservices", "Event-Driven Arch", "System Design", "DSA", "OS", "DBMS", "CN"]
+}
+```
+
+---
+
+## `$ cat ./experience.log`
+
+```
+[2025-05 → 2025-07]  Research Intern @ WorldQuant  (Remote, US)
+                     ↳ Built 10+ quantitative alphas via statistical modeling
+                     ↳ Predictive accuracy: 78% → 87%  (+9 pp)
+                     ↳ Analyzed 80+ behavioral finance case studies
+```
+
+---
+
+## `$ cat ./achievements.txt`
+
+```
+★  1500+ DSA problems solved  ·  LeetCode / GFG / Codeforces
+★  1st Place  ·  Drone Race — ESYA 2023 (IIT Delhi Tech Fest)
+★  3rd Place  ·  National-Level Grappling Competition
+★  Hackathons ·  SIH  ·  Walmart Sparkathon 2025  ·  Bajaj Finserv  ·  Code for Bharat S2
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## `$ curl prajwal.negi/certifications`
+
+| Domain | Issuer |
+|---|---|
+| Data Science | Coding Blocks |
+| Flutter Development | Udemy |
+| Android Development | Coding Blocks |
+| Blockchain Development | Udemy |
+
+---
+
+<div align="center">
+
+**If you're a recruiter or collaborator — let's talk.**
+
+[![LinkedIn](https://img.shields.io/badge/-prajwal--negi--19797724b-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-negi-19797724b)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/-@negi31971-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/negi31971)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-prajwalnegi.site-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://www.prajwalnegi.site/)
+
+*Currently open to full-time SDE roles (2026 graduate) and open-source collaboration.*
+
+</div>

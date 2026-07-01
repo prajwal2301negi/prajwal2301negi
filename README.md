@@ -1,165 +1,111 @@
-<h1 align="center">Hi 👋, I'm Prajwal Negi</h1>
-<h3 align="center">
-  I am a B.Tech student at NSUT with experience in Full-Stack Web Development using the MERN stack, Next.js, Prisma, Typescript & PostgreSQL. I have also worked with Django, Go, and Flutter, and have a keen interest in Deep Learning, AI integration, and Blockchain technology.
-</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Prajwal%20Negi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Blockchain%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=0e75b6&style=flat" alt="4b26a14c-e9c0pn" /> </p>
+<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Student+at+NSUT;Full-Stack+Developer+%7C+MERN+%2B+Next.js;Deep+Learning+%26+AI+Enthusiast;Blockchain+%26+Web3+Explorer;Always+Learning%2C+Always+Building!&font=Fira+Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Game Development**
+<br/>
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+<img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=6a11cb&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/prajwal2301negi?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.prajwalnegi.site/)
-
-- 📫 How to reach me **prajwalnegi2301@gmail.com**
-  
--  My Certifcates:
--  DataScience: https://online.codingblocks.com/app/certificates/CBOL-293598-3a205461
--  Flutter: https://udemy-certificate.s3.amazonaws.com/image/UC-cd23da7b-7f74-426f-a08c-686206dbee98.jpg
--  Android Development:  https://online.codingblocks.com/app/certificate/CBOL-277176-a6f2dcd5
--  BlockChain Development: https://www.udemy.com/certificate/UC-87af25c2-5f52-45dd-af64-dc641140a642
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
 </div>
 
-###
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal2301negi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="prajwal2301negi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=dracula" alt="prajwal2301negi" /></p>
+```yaml
+name: Prajwal Negi
+role: Full-Stack Developer & B.Tech Student @ NSUT
+stack: MERN | Next.js | Prisma | TypeScript | PostgreSQL
+also_worked_with: [Django, Go, Flutter]
+currently_learning: Game Development
+looking_to_collaborate: Full-Stack Projects
+portfolio: https://www.prajwalnegi.site/
+reach_me: prajwalnegi2301@gmail.com
+fun_fact: "Ships code faster than coffee gets cold ☕"
+```
 
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-###
+## 🏆 Certifications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/negi31971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="negi31971" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prajwal-negi-19797724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-negi-19797724b" height="30" width="40" /></a> 
-<a href="https://instagram.com/prajwalnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalnegi" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-###
+[![Data Science](https://img.shields.io/badge/Data_Science-CodingBlocks-blue?style=for-the-badge&logo=databricks&logoColor=white)](https://online.codingblocks.com/app/certificates/CBOL-293598-3a205461)
+[![Flutter](https://img.shields.io/badge/Flutter-Udemy-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://udemy-certificate.s3.amazonaws.com/image/UC-cd23da7b-7f74-426f-a08c-686206dbee98.jpg)
+[![Android Dev](https://img.shields.io/badge/Android_Dev-CodingBlocks-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://online.codingblocks.com/app/certificate/CBOL-277176-a6f2dcd5)
+[![Blockchain](https://img.shields.io/badge/Blockchain_Dev-Udemy-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://www.udemy.com/certificate/UC-87af25c2-5f52-45dd-af64-dc641140a642)
+
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,go,django,flutter,dart,py,cpp,c&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mongodb,postgres,mysql,redis,graphql,docker,kubernetes,git,github,figma,aws,gcp,firebase,solidity,vscode,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>🧠 Skill Radar Breakdown</b></summary>
+<br/>
+
+| Domain | Technologies |
+|---|---|
+| 🌐 **Frontend** | React, Next.js, Redux, TailwindCSS, Bootstrap |
+| ⚙️ **Backend** | Node.js, Express, Django, Go |
+| 🗄️ **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| 📱 **Mobile** | Flutter, Android (Kotlin) |
+| 🤖 **AI / ML** | PyTorch, TensorFlow, OpenCV, Pandas, NumPy |
+| ⛓️ **Blockchain** | Solidity, Web3 |
+| ☁️ **DevOps/Cloud** | Docker, Kubernetes, AWS, GCP, Nginx, Jenkins |
+
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwal2301negi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal2301negi&layout=compact&theme=radical&langs_count=10"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=radical&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal2301negi&theme=redical&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal2301negi&theme=radical&no-frame=true&row=1&margin-w=15" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> 💡 *Note: The snake animation above auto-generates once the [`platane/snk`](https://github.com/Platane/snk) GitHub Action is set up on your own repo — see setup note at the bottom.*
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.prajwalnegi.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:prajwalnegi2301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/prajwal-negi-19797724b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/negi31971" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/prajwalnegi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Handshake.gif" width="100"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>

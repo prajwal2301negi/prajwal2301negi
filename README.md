@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # Hi, I'm Prajwal Negi 👋
 
@@ -102,4 +102,4 @@ fun_fact: "Ships code faster than coffee gets cold ☕"
 <a href="https://twitter.com/negi31971" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/prajwalnegi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</div> -->
+</div>

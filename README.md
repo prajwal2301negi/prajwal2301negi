@@ -21,9 +21,9 @@
 name: Prajwal Negi
 role: Software Developer & B.Tech Student @ NSUT '26
 specialization: Backend Development | Microservices | Distributed Systems
-stack: Node.js | TypeScript | Next.js | Node.js | React | PostgreSQL | MongoDB | Redis | RabbitMQ
-also_worked_with: [Express.js, Docker, Nginx, BullMQ, Grafana, Loki, Prometheus, Prisma, Tailwind CSS, ShadCN, Stripe, Cloudinary]
-currently_learning: Kubernetes | AWS | Advanced System Design | Game Development
+stack: Node.js | TypeScript | Next.js | Go | React | PostgreSQL | MongoDB | Redis | RabbitMQ
+also_worked_with: [Express.js, Docker, Nginx, BullMQ, Grafana, Loki, Prometheus, LangGraph, DeepLearning, Django, LangChain, OpenCV, Yolo, Flutter]
+currently_learning: Kubernetes | AWS | Advanced System Design 
 currently_building: Production-Grade Microservices & Event-Driven Applications
 looking_to_collaborate: Backend Systems | Distributed Applications | Full-Stack SaaS | Open Source
 portfolio: https://www.prajwalnegi.site/

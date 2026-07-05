@@ -19,14 +19,17 @@
 
 ```yaml
 name: Prajwal Negi
-role: Software Developer & B.Tech Student @ NSUT
-stack: MERN | Next.js | Prisma | TypeScript | PostgreSQL
-also_worked_with: [Django, Go, Flutter]
-currently_learning: Game Development
-looking_to_collaborate: Full-Stack Projects
+role: Software Developer & B.Tech Student @ NSUT '26
+specialization: Backend Development | Microservices | Distributed Systems
+stack: Node.js | TypeScript | Next.js | Node.js | React | PostgreSQL | MongoDB | Redis | RabbitMQ
+also_worked_with: [Express.js, Docker, Nginx, BullMQ, Grafana, Loki, Prometheus, Prisma, Tailwind CSS, ShadCN, Stripe, Cloudinary]
+currently_learning: Kubernetes | AWS | Advanced System Design | Game Development
+currently_building: Production-Grade Microservices & Event-Driven Applications
+looking_to_collaborate: Backend Systems | Distributed Applications | Full-Stack SaaS | Open Source
 portfolio: https://www.prajwalnegi.site/
-reach_me: prajwalnegi2301@gmail.com
-fun_fact: "Ships code faster than coffee gets cold ☕"
+reach_me: prajwal.negi.ug22@nsut.ac.in
+achievements: "1500+ DSA Problems | Research Intern @ WorldQuant | 1st Place ESYA Drone Race | 3rd Place National Grappling"
+fun_fact: "Can debug distributed systems before my coffee gets cold ☕"
 ```
 
 ## 🏆 Certifications

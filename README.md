@@ -149,9 +149,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwal2301negi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal2301negi&layout=compact&theme=radical&langs_count=10"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal2301negi&theme=radical&hide_border=true" alt="streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal2301negi&theme=redical&hide_border=true" width="100%"/>
